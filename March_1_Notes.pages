@@ -1,0 +1,3 @@
+Learn about always wrapping things in modules to avoid conflicting between online code you download and your own with classes.
+When you add a module, youll need to inheret from the module not the class. Itll look like Actualize::Employee rather than just Employee
+If you are using the module Actualize for all the classes, then you inheret by just calling the classes as they are not required to take the module name just the class name
