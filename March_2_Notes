@@ -1,0 +1,12 @@
+Learn more about CSS and HTML methods.
+use https://codepen.io/EricF25/pen/QpNvmg for playing with a combination of HTML, CSS, JS and others. This is good when you need different types of programs to make something work.
+Look at the float method for CSS
+Look into hashes, dots and just body for CSS when related to text in HTML.
+Make sure to do the weekly blog by March 4 this weekend. Look into the most interesting topic or hardest thing we have done to write it on.
+the @media for media query. This can help for something that is viewed on a mobile or other type of device. It allows it to base everything on percentages.
+inherit method for smaller screens on CSS.
+Mess around with sights using the command, option and J under elements. It is a lot of fun to mess with times.
+Delete the CSS portion if you want to get past the firewall. This is the easy way. The other way to do it is to inspect tons of elements and delete everything that would be needed. Find overflow below. Change the overflow below from hidden to scroll on the page.
+Check out interview cake.
+Bootstrap is a really good way to cut most of the CSS headache out. It is very good for quickly doing the work. It does not differentiate you as a company if used for a site but still can be edited and a good base
+Sites with bootstrap run slower because they use a ton of lines you do not use. This means that the site still needs to run through all the code before running everything.

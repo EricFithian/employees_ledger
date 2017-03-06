@@ -94,3 +94,20 @@
 #   puts "ACCT #: #{customer["account_number"]}"
 # end
 
+#Question 4, Final Review. Create a program that puts your class into groups! Have the program request the user to enter each student’s names.  Assume the classroom has an even number of students, so there are only groups of two. For example, you can have the program output groups like so:
+
+puts "Please enter the name of every student."
+students = []
+
+4.times do |counter|
+  puts "Student number #{counter + 1}'s name is:"
+  student = gets.chomp
+  students << student 
+end  
+
+# p students
+
+2.times do |counter|
+  puts "Group: #{students.sample(2)}"
+end
+
