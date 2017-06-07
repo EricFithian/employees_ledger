@@ -1,0 +1,9 @@
+<%= if @guess == 28
+      "Hey you guessed it right!"
+      elsif @guess > 28
+      "Your guess was too high!"
+      elsif @guess < 28 && @guess >= 1
+      "Your guess was too low!" 
+      else 
+        "Guess a NUMBER between 1 and 100 and don't try to break my game you jerk!"
+        end %>
